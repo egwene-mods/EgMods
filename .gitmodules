@@ -1,3 +1,9 @@
 [submodule "External/MinecraftForge"]
 	path = External/MinecraftForge
 	url = https://github.com/MinecraftForge/MinecraftForge.git
+[submodule "EgCore"]
+	path = EgCore
+	url = https://github.com/egwene-mods/EgCore.git
+[submodule "EgGUI"]
+	path = EgGUI
+	url = https://github.com/egwene-mods/EgGUI.git
