@@ -1,0 +1,3 @@
+[submodule "External/MinecraftForge"]
+	path = External/MinecraftForge
+	url = https://github.com/MinecraftForge/MinecraftForge.git
