@@ -1,0 +1,1 @@
+testing strict mode for gpg stuff
