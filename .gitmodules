@@ -7,3 +7,6 @@
 [submodule "EgGUI"]
 	path = EgGUI
 	url = https://github.com/egwene-mods/EgGUI.git
+[submodule "TestEg-001"]
+	path = TestEg-001
+	url = https://github.com/egwene-mods/TestEg-001.git
